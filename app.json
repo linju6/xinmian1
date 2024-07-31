@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/chushihua/jry"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "芯眠",
+    "navigationBarBackgroundColor": "#ffffff"
+  }
+}
