@@ -1,9 +1,0 @@
-<!-- jry.wxml 文件中 -->
-<view class="container">
-  <image class="center-image" src="{{imageArc}}" mode='aspectFit'></image>
-</view>
-<image class="cenaer-image" src="{{imageBrc}}" mode='scaleToFill'></image>
-<view class="text">
-  <text class="text1">软件初始化中</text>
-  <image class="cenaer-image1" src="{{imageCrc}}" mode='aspectFit'></image>
-</view>

@@ -1,10 +1,12 @@
 {
   "pages": [
-    "pages/chushihua/jry"
+    "chushihua/pages/jry",
+    "zhuye/pages/zhuye"
   ],
   "window": {
     "navigationBarTextStyle": "black",
     "navigationBarTitleText": "芯眠",
-    "navigationBarBackgroundColor": "#ffffff"
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationStyle":"custom"
   }
 }

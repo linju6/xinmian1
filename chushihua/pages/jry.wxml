@@ -1,0 +1,14 @@
+<!-- jry.wxml 文件中 -->
+<view class="container">
+  <image class="center-image" src="{{imageArc}}" mode='aspectFit'></image>
+</view>
+<view class="overlay-containee">
+  <image class="overlay-image" src="{{imageBrc}}" mode='scaleToFill'></image>
+  <text class="overlay-text">情绪波动起伏较大</text>
+  <text class="overlay-text1">运动量不足需加强</text>
+  <text class="overlay-text2">深度睡眠占比正常</text>
+</view>
+<view class="text">
+  <text class="text1">软件初始化中</text>
+  <image class="cenaer-image1" src="{{imageCrc}}" mode='aspectFit'></image>
+</view>

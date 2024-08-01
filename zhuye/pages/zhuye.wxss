@@ -1,0 +1,14 @@
+.containeq {
+  display: flex;/*弹性布局*/
+  justify-content: center;/*水平居中对齐*/
+  align-items: center;/*垂直居中对齐*/
+  margin-top: 30%;
+}
+.text1 {
+  display: flex;/*弹性布局*/
+  justify-content: center;/*水平居中对齐*/
+  align-items: center;/*垂直居中对齐*/
+  font-family: 'Microsoft YaHei', 'Microsoft YaHei UI', '微软雅黑', '黑体-SC', '黑体', sans-serif;
+  font-size: 80rpx;
+  color: #131e3c;
+}

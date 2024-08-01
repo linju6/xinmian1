@@ -1,0 +1,4 @@
+<view class="containeq">
+  <image class="center-image" src="{{imageA}}" mode='aspectFit'></image>
+</view>
+<text class="text1">转跳成功，下班！</text>
